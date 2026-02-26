@@ -1,0 +1,200 @@
+2026-02-26T05:13:36.365Z [PANIC] panic: stack overflow in irq handler
+2026-02-26T05:13:36.365Z [INFO] watchdog: armed
+2026-02-26T05:13:36.365Z [INFO] sensor: ready
+2026-02-26T05:13:36.365Z [WARN] net: retransmits increasing
+2026-02-26T05:13:36.365Z [PANIC] KERNEL PANIC - not syncing: Fatal exception
+2026-02-26T05:13:36.365Z [INFO] watchdog: armed
+2026-02-26T05:13:36.365Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.365Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.365Z [INFO] app: service started
+2026-02-26T05:13:36.365Z [ERROR] app: unhandled error code=E42
+2026-02-26T05:13:36.365Z [INFO] sensor: ready
+2026-02-26T05:13:36.365Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.365Z [WARN] power: voltage dip detected
+2026-02-26T05:13:36.365Z [ERROR] sensor: read failed
+2026-02-26T05:13:36.365Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.365Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.365Z [INFO] watchdog: armed
+2026-02-26T05:13:36.365Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.365Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.365Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.365Z [INFO] watchdog: armed
+2026-02-26T05:13:36.365Z [WARN] power: voltage dip detected
+2026-02-26T05:13:36.365Z [ERROR] i2c: bus arbitration lost
+2026-02-26T05:13:36.365Z [INFO] sensor: ready
+2026-02-26T05:13:36.365Z [INFO] boot: system init complete
+2026-02-26T05:13:36.365Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.365Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.365Z [INFO] app: service started
+2026-02-26T05:13:36.365Z [WARN] power: voltage dip detected
+2026-02-26T05:13:36.365Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.365Z [WARN] fs: slow write detected
+2026-02-26T05:13:36.365Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.365Z [INFO] watchdog: armed
+2026-02-26T05:13:36.365Z [INFO] boot: system init complete
+2026-02-26T05:13:36.365Z [INFO] app: service started
+2026-02-26T05:13:36.365Z [INFO] app: service started
+2026-02-26T05:13:36.365Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.365Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.365Z [INFO] sensor: ready
+2026-02-26T05:13:36.365Z [INFO] boot: system init complete
+2026-02-26T05:13:36.365Z [INFO] watchdog: armed
+2026-02-26T05:13:36.365Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.365Z [ERROR] sensor: read failed
+2026-02-26T05:13:36.365Z [ERROR] app: unhandled error code=E42
+2026-02-26T05:13:36.365Z [INFO] sensor: ready
+2026-02-26T05:13:36.365Z [INFO] watchdog: armed
+2026-02-26T05:13:36.365Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.365Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.365Z [INFO] watchdog: armed
+2026-02-26T05:13:36.365Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.365Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.365Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.365Z [INFO] app: service started
+2026-02-26T05:13:36.365Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.365Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.365Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.365Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.365Z [INFO] watchdog: armed
+2026-02-26T05:13:36.365Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.365Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.365Z [INFO] boot: system init complete
+2026-02-26T05:13:36.365Z [INFO] boot: system init complete
+2026-02-26T05:13:36.365Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.365Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.365Z [WARN] fs: slow write detected
+2026-02-26T05:13:36.365Z [WARN] net: retransmits increasing
+2026-02-26T05:13:36.365Z [INFO] boot: system init complete
+2026-02-26T05:13:36.365Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.365Z [INFO] watchdog: armed
+2026-02-26T05:13:36.365Z [INFO] app: service started
+2026-02-26T05:13:36.365Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.365Z [INFO] app: service started
+2026-02-26T05:13:36.365Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.365Z [PANIC] fatal exception: NULL dereference
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [INFO] app: service started
+2026-02-26T05:13:36.366Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [ERROR] mmc: crc error on read
+2026-02-26T05:13:36.366Z [ERROR] i2c: bus arbitration lost
+2026-02-26T05:13:36.366Z [INFO] sensor: ready
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [INFO] app: service started
+2026-02-26T05:13:36.366Z [PANIC] KERNEL PANIC - not syncing: Fatal exception
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [ERROR] app: unhandled error code=E42
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [INFO] app: service started
+2026-02-26T05:13:36.366Z [INFO] sensor: ready
+2026-02-26T05:13:36.366Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.366Z [ERROR] i2c: bus arbitration lost
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [PANIC] KERNEL PANIC - not syncing: Fatal exception
+2026-02-26T05:13:36.366Z [INFO] boot: system init complete
+2026-02-26T05:13:36.366Z [WARN] fs: slow write detected
+2026-02-26T05:13:36.366Z [INFO] sensor: ready
+2026-02-26T05:13:36.366Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [ERROR] app: unhandled error code=E42
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [INFO] sensor: ready
+2026-02-26T05:13:36.366Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.366Z [ERROR] i2c: bus arbitration lost
+2026-02-26T05:13:36.366Z [ERROR] i2c: bus arbitration lost
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [INFO] app: service started
+2026-02-26T05:13:36.366Z [ERROR] sensor: read failed
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.366Z [INFO] app: service started
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.366Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.366Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.366Z [INFO] sensor: ready
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [INFO] boot: system init complete
+2026-02-26T05:13:36.366Z [INFO] sensor: ready
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [WARN] net: retransmits increasing
+2026-02-26T05:13:36.366Z [PANIC] fatal exception: NULL dereference
+2026-02-26T05:13:36.366Z [WARN] power: voltage dip detected
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [INFO] app: service started
+2026-02-26T05:13:36.366Z [WARN] fs: slow write detected
+2026-02-26T05:13:36.366Z [ERROR] app: unhandled error code=E42
+2026-02-26T05:13:36.366Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [ERROR] app: unhandled error code=E42
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [INFO] boot: system init complete
+2026-02-26T05:13:36.366Z [INFO] sensor: ready
+2026-02-26T05:13:36.366Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [ERROR] mmc: crc error on read
+2026-02-26T05:13:36.366Z [WARN] net: retransmits increasing
+2026-02-26T05:13:36.366Z [INFO] sensor: ready
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [WARN] fs: slow write detected
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [WARN] power: voltage dip detected
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.366Z [INFO] app: service started
+2026-02-26T05:13:36.366Z [INFO] boot: system init complete
+2026-02-26T05:13:36.366Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [WARN] power: voltage dip detected
+2026-02-26T05:13:36.366Z [INFO] app: service started
+2026-02-26T05:13:36.366Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [INFO] boot: system init complete
+2026-02-26T05:13:36.366Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.366Z [INFO] app: service started
+2026-02-26T05:13:36.366Z [ERROR] app: unhandled error code=E42
+2026-02-26T05:13:36.366Z [INFO] boot: system init complete
+2026-02-26T05:13:36.366Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [WARN] power: voltage dip detected
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [INFO] boot: system init complete
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [INFO] sensor: ready
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [WARN] sensor: jitter high
+2026-02-26T05:13:36.366Z [INFO] fs: mounted /data
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [INFO] sensor: ready
+2026-02-26T05:13:36.366Z [INFO] boot: system init complete
+2026-02-26T05:13:36.366Z [INFO] watchdog: armed
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [INFO] net: link up (1Gbps)
+2026-02-26T05:13:36.366Z [WARN] net: retransmits increasing
+2026-02-26T05:13:36.366Z [INFO] app: service started
+2026-02-26T05:13:36.366Z [WARN] net: retransmits increasing
+2026-02-26T05:13:36.366Z [WARN] temp: threshold nearing (78C)
+2026-02-26T05:13:36.366Z [INFO] telemetry: heartbeat ok
+2026-02-26T05:13:36.366Z [WARN] power: voltage dip detected
